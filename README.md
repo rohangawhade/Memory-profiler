@@ -10,3 +10,5 @@ In this repository, you will find a memory.py file which contains a function who
 
 3) Run:
     - python -m memory_profiler memory.py
+
+Module description: [memory-profiler](https://pypi.org/project/memory-profiler/#description)
