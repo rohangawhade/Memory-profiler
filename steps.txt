@@ -1,3 +1,0 @@
-1) pip install memory-profiler
-2) add @profile above the function whose memory profile you need to check
-3) to run: python -m memory_profiler memory.py
